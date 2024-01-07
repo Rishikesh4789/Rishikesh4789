@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there, I'm [Your Name]! 👋
+
+🎓 3rd-year student at VIT Pune, passionate about Full Stack Development and exploring the MERN stack.
+
+👨‍💻 Currently honing my skills in Java and diving deep into the world of Web3 and blockchain tech.
+
+🌟 Excited about collaborating on innovative projects that merge technology and creativity.
+
+📫 Let's connect! Find me on [LinkedIn](Your LinkedIn Profile) or [Twitter](Your Twitter Profile).
+
+Happy coding! 😊
